@@ -16,7 +16,8 @@ pip install tabulate
   ```bash
   ip_list = load_ips('FILE-PATH-HERE')
 - Step 2: Add Your API Key
-  Visit, VirusTotal, create an account to get your API-KEY
+
+  Visit VirusTotal, create an account to get your API-KEY
 ```bash
 API_KEY = 'your_virustotal_api_key_here'
 ```
